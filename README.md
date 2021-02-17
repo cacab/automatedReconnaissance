@@ -18,6 +18,10 @@ Please make sure your input uses double quotation marks. (" ")
 <br>
 See sample output below. 
 <br>
+![alt text](https://raw.githubusercontent.com/cacab/automatedReconnaissance/main/readmeImages/image2.png)
+<br>
+![alt text](https://raw.githubusercontent.com/cacab/automatedReconnaissance/main/readmeImages/image1.png)
+<br>
 References: 
 <br>
 https://stackoverflow.com/questions/3898574/google-search-using-python-script
