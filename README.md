@@ -18,6 +18,8 @@ Please make sure your input uses double quotation marks. (" ")
 <br>
 See sample output below. 
 <br>
+![alt text](https://raw.githubusercontent.com/cacab/automatedReconnaissance/main/readmeImages/imageoption1.png)
+<br>
 ![alt text](https://raw.githubusercontent.com/cacab/automatedReconnaissance/main/readmeImages/image2.png)
 <br>
 ![alt text](https://raw.githubusercontent.com/cacab/automatedReconnaissance/main/readmeImages/image1.png)
