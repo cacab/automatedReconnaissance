@@ -1,0 +1,3 @@
+ftp://ftp.cerias.purdue.edu/pub/advisories/ciac/q-fy06/q-208.php.txt
+https://www.zago.eti.br/php.txt
+http://smeduquedecaxias.rj.gov.br/nead/Biblioteca/Forma%C3%A7%C3%A3o%20Continuada/Tecnologia/cursos/programacao/php/Manual%20do%20PHP.txt
