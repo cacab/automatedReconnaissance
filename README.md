@@ -17,6 +17,7 @@ or
 `python3 main.py `
 <br>
 <br>
+
 This program will output URLs to text documents. The number of results outputted is determined by the user. 
 Please make sure your input uses double quotation marks. (" ") 
 <br>
@@ -31,3 +32,5 @@ See sample output below.
 References: 
 <br>
 https://stackoverflow.com/questions/3898574/google-search-using-python-script
+<br>
+http://www.securitysift.com/passive-reconnaissance/
