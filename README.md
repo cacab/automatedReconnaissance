@@ -16,6 +16,7 @@ or
 <br>
 `python3 main.py `
 <br>
+<br>
 This program will output URLs to text documents. The number of results outputted is determined by the user. 
 Please make sure your input uses double quotation marks. (" ") 
 <br>
